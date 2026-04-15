@@ -1,0 +1,11 @@
+{
+  "name": "unity-mcp-scene-rename",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Cursor MCP bridge for renaming Unity scene GameObjects.",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.18.0",
+    "zod": "^3.24.1"
+  }
+}

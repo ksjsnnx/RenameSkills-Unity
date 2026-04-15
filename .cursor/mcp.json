@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "unity-scene-rename": {
+      "type": "stdio",
+      "command": "node",
+      "args": [
+        "D:\\unity class program\\MyUnityMCP\\Tools\\unity-mcp-scene-rename\\server.mjs"
+      ],
+      "env": {
+        "UNITY_MCP_URL": "http://127.0.0.1:8756"
+      }
+    }
+  }
+}
