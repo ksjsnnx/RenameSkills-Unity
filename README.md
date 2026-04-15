@@ -2,7 +2,7 @@
 
 ## 中文项目介绍
 
-RenameSkills-Unity 是一个面向 Unity Editor 的批量重命名工具。它通过 MCP（Model Context Protocol）把 Cursor 里的 AI Agent 和 Unity 编辑器连接起来，让 AI 可以直接读取当前 Unity 场景里的 GameObject，并按规则批量重命名。
+RenameSkills-Unity 是一个批量重命名工具。它通过 MCP（Model Context Protocol）把 Cursor 里的 AI Agent 和 Unity 编辑器连接起来，让 AI 可以直接读取当前 Unity 场景里的 GameObject，并按规则批量重命名。
 
 这个工具适合处理这些场景：
 
